@@ -1,3 +1,4 @@
+//资源来自互联网，接口更新时间：202208041002
 {
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0730.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
